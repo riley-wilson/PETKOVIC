@@ -6,6 +6,4 @@ I named this project PETKOVIC after Andrea Petkovic, a German tennis player who 
 
 The vast majority of the data I used to train my models was collected by Jeff Sackman. I, and much of the tennis community, are deeply indebted to his work. 
 
-Right now, there is only one file in this repository. It's the Selenium scraper I used to gather data Sackman had not released yet. It's a scrappy little program which requires some human intervention, but it worked for me. 
-
-I'll release more parts of PETKOVIC shortly. 
+Right now, only the Selenium scraper I built to gather data is in the repository. I'll release more parts of PETKOVIC shortly. 
